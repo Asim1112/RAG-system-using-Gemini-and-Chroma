@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+.env
+
+# Chroma
+chroma_store/
+
+# Chainlit/dev folders
+.chainlit/
+.files/
+
+# OS files
+.DS_Store
