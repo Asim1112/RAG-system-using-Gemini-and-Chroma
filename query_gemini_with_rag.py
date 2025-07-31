@@ -18,7 +18,7 @@ chroma_client = chromadb.PersistentClient(path="./chroma_store")
 
 collection = chroma_client.get_collection(name="pdf_chunks")
 
-user_question = input("❓ Ask your question: ")
+user_question = input("Ask your question: ")
 
 user_vector = embed_model.encode([user_question])[0]
 
