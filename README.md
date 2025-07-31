@@ -78,9 +78,9 @@ python embed_pdf_to_chroma.py
 5. **Ask questions!**
 
 
-🙋‍♂️ Author
-Asim Hussain
+🙋‍♂️ Author:
+**Asim Hussain**
 🖥️ Web Developer | 👨‍💻 Python & AI Learner | 🚀 GIAIC Elite Student
 📍 Karachi, Pakistan
-📫 Connect on LinkedIn "https://linkedin.com/in/asim-hussain-5429252b8"
+📫 Connect on LinkedIn: "https://linkedin.com/in/asim-hussain-5429252b8"
 
